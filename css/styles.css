@@ -3,32 +3,32 @@ body  {
 }
 
 h1{
-color: white;
-text-shadow: 2px 2px black;
+color: #ffffff;
+text-shadow: 2px 2px #000000;
 font-family: "Comic Sans MS";
 }
 
 h2{
-color: white;
-text-shadow: 2px 2px black;
+color: #ffffff;
+text-shadow: 2px 2px #000000;
     font-family: "Comic Sans MS";
 }
 
 h3{
-color: white;
-text-shadow: 2px 2px black;
+color: #ffffff;
+text-shadow: 2px 2px #000000;
     font-family: "Comic Sans MS";
 }
 
 h4{
-color: white;
-text-shadow: 2px 2px black;
+color: #ffffff;
+text-shadow: 2px 2px #000000;
     font-family: "Comic Sans MS";
 }
 
 h5{
-color: white;
-text-shadow: 2px 2px black;
+color: #ffffff;
+text-shadow: 2px 2px #000000;
     font-family: "Comic Sans MS";
 }
 
@@ -42,3 +42,11 @@ background-color: #a0edf7;
 border-width: 20px;
 
 }
+
+li{
+  color: #ffffff;
+  text-shadow: 2px 2px #000000;
+  font-family: "Comic Sans MS";
+}
+
+
